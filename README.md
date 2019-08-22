@@ -78,4 +78,4 @@ We'll be threading accessibility, security and performance information throughou
     * PWABuilder
 
 ## Questions
-Any questions on anything or see anything you would like covering get in touch with me @JordanFinners
+Any questions on anything or see anything you would like covering get in touch with me [JordanFinners](https://github.com/jordanfinners) or on [Twitter](https://www.twitter.com/jordanfinners).
